@@ -1,4 +1,5 @@
-here
+Coful Specifications
+
 | Device                  | Motorola G31                                          |
 | ----------------------- | ---------------------------------------------------------|
 | SoC                     | Mediatek Helio G85 (12nm)                      |      
